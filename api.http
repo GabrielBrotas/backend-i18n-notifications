@@ -1,0 +1,16 @@
+
+###
+http://localhost:9000/
+
+
+###
+http://localhost:9000/notifications
+accept-language: pt-br
+
+###
+http://localhost:9000/notifications
+accept-language: en
+
+###
+http://localhost:9000/notifications
+accept-language: non-existent-lng
