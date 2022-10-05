@@ -4,6 +4,7 @@ simple backend notification system with internationalization translation
 
 ## How to run
 ```bash
+npm install
 npm start
 ```
 
