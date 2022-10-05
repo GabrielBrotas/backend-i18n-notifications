@@ -1,3 +1,5 @@
 {
-	"LIKED_POST": "{{name}} liked your post."
+	"LIKED_POST": "{{name}} liked your post.",
+	"MESSAGE_RECEIVED": "{{name}} sent you a message.",
+	"STARTED_FOLLOW": "{{name}} started follow you."
 }
